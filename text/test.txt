@@ -1,0 +1,3 @@
+# Plain text is what you need
+
+Tekst, który właśnie czytasz nie składa się wyłącznie z kolejnych znaków. Niektóre fragmenty będą **pogrubione**, inne będą mogły przekierować Cię do zewnętrznych źródeł, np. tekstu "[The rise of Artificial General Intelligence (AGI)](https://www.techsistence.com/p/the-rise-of-artificial-general-intelligence)", a inne będą przeplatane obrazami. Każdy z takich dodatkowych elementów musi zostać w jakiś sposób oznaczony, aby programy były w stanie poprawnie wyświetlić treść i nierzadko umożliwić także ich edycję. Z punktu widzenia użytkownika, zwykle to, o czym teraz piszę, nie odgrywa jakiejkolwiek roli, ponieważ ten widzi wyłącznie kolejne znaki tekstu. 

@@ -1,0 +1,3 @@
+# Plain text is what you need
+
+The text you're reading right now isn't just a series of characters. Some parts will be **bold**, others might redirect you to external sources, like the article "[The rise of Artificial General Intelligence (AGI)](https://www.techsistence.com/p/the-rise-of-artificial-general-intelligence)", and some will be interspersed with images. Each of these additional elements must be somehow marked so that programs can display the content correctly and often also allow editing. From the user's perspective, usually what I'm writing about now doesn't play any role, because they only see the successive characters of the text.
